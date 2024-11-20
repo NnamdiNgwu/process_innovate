@@ -30,10 +30,10 @@ Enhanced IT Alignment: Processes better integrate with IT infrastructure, enabli
 Employee Empowerment: Productivity improves as routine tasks are automated, freeing time for strategic work.
 Repository Contents
 
-AS-IS_Diagrams/: Contains BPMN 2.0 diagrams of current workflows.
-TO-BE_Diagrams/: Contains BPMN 2.0 diagrams of optimized workflows with Human in the Loop.
-Documentation/: Detailed analysis and implementation steps.
-Scripts/: Automation scripts or tools (if applicable).
+* AS-IS_Diagrams/: Contains BPMN 2.0 diagrams of current workflows.
+* TO-BE_Diagrams/: Contains BPMN 2.0 diagrams of optimized workflows with Human in the Loop.
+* Documentation/: Detailed analysis and implementation steps.
+* Scripts/: Automation scripts or tools (if applicable).
 How to Use
 
 Review the AS-IS_Diagrams/ folder to understand current workflows.

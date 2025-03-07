@@ -1,7 +1,7 @@
 # Process Innovation
 # WorkFlow Automation across-departments
 
-![AS IS](AS-IS/Screenshot 2024-11-20 at 1.44.10 PM.png)
+![AS IS](https://github.com/NnamdiNgwu/process_innovate/blob/main/AS-IS/Screenshot%202024-11-20%20at%201.44.10%E2%80%AFPM.png)
 
 
 Process Innovation 

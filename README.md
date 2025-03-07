@@ -1,7 +1,7 @@
 # Process Innovation
 # WorkFlow Automation across-departments
 
-![AS IS]()
+![AS IS](AS-IS/Screenshot 2024-11-20 at 1.44.10 PM.png)
 
 
 Process Innovation 
